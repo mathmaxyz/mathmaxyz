@@ -1,8 +1,8 @@
-# Helena Hope-Carter
+Max Hope-Carter
 
-**` Full-stack software engineer`**
+**` Software engineer | Music producer | Designer`**
 
-Building language learning, productivity and music tools in Java, Python and frontend TS frameworks.
+Exploring the lower web
 
 RTFM
 
@@ -12,5 +12,3 @@ RTFM
  </a>
 </p>
 
-#
-🔭 I’m currently working on... a Japanese language learning app and love letter to the open source Japanese langauge learning developer community that raised me.
